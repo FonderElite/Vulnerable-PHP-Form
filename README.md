@@ -13,10 +13,7 @@ I made this project because it gives me more knowledge of how vulnerable web-app
 Still theres a difference between secure and non-secure code. Only when you practice coding securely and know the language php well, do you have the right to say that **php** really does suck. Because php is has its purpose in the tech industry.
 
 ## PHP-Stacks
-Windows, Apache, MySQL, and PHP
-Mac OSX, Apache, Mysql, and PHP
 | Linux  | Apache |  MySQL | PHP |
 |---|---|---|---|
 | Windows | Apache  | MySQL | PHP |
-|---|---|---|---|
 | Mac OSX | Apache | MySQL | PHP
