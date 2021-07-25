@@ -8,7 +8,7 @@
 ## 👷 Purpose of this project.
 I made this project because it gives me more knowledge of how vulnerable web-apps work and possibly give me more information concerning on how to exploit these common vulnerabilities.
 
-## Php sucks!
+## 😠 Php sucks!
 **Php** is hated among the community of developers because of how it's structured and usually could create gaps or loopholes in the security of a web application.
 Still theres a difference between secure and non-secure code. Only when you practice coding securely and know the language php well, do you have the right to say that **php** really does suck. Because php is has its purpose in the tech industry.
 
