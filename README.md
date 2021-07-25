@@ -5,6 +5,17 @@
 ## 🐘 What is PHP?
 > According to wikipedia, PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group.
 
+## Installation && Usage
+```
+->Installation
+└─$ sudo git clone https://github.com/FonderElite/Vulnerable-PHP-Form/
+
+->Usage
+┌──(kali㉿kali)-[~/Vulnerable-PHP-Form]
+└─$ sudo php -S 127.0.0.1:8085 vuln_form.php                
+[Sun Jul 25 16:48:40 2021] PHP 7.4.11 Development Server (http://127.0.0.1:8085) started
+```
+
 ## 👷 Purpose of this project.
 I made this project because it gives me more knowledge of how vulnerable web-apps work and possibly give me more information concerning on how to exploit these common vulnerabilities.
 
