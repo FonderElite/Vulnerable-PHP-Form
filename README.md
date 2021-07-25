@@ -5,3 +5,7 @@
 ## What is PHP?
 > According to wikipedia, PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group.
 
+## Purpose of this project.
+I made this project because it gives me more knowledge of how vulnerable web-apps work and possibly give me more information concerning on how to exploit these common vulnerabilities.
+
+
