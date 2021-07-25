@@ -15,4 +15,5 @@ Still theres a difference between secure and non-secure code. Only when you prac
 ## PHP-Stacks
 | Linux  | Apache |  MySQL | PHP |
 |---|---|---|---|
+| hi  |  hi | hi  | hi  |
 
