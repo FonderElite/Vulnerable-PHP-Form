@@ -12,7 +12,7 @@
 
 ->Usage
 ┌──(kali㉿kali)-[~/Vulnerable-PHP-Form]
-└─$ sudo php -S 127.0.0.1:8085 vuln_form.php                
+└─$ sudo php -S 127.0.0.1:<port> vuln_form.php                
 [Sun Jul 25 16:48:40 2021] PHP 7.4.11 Development Server (http://127.0.0.1:8085) started
 ```
 
